@@ -8,7 +8,7 @@ O primeiro paso é descargar unha imaxe de Ubuntu desde Docker Hub ao teu equipo
 
 Comando para descargar a imaxe de Ubuntu:
 
-**docker pull ubuntu**
+'docker pull ubuntu'
 
 Comprobar se a imaxe foi descargada:
 
